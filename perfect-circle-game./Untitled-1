@@ -1,2 +1,0 @@
-cd ~/perfect-circle-game.
-python3 -m http.server
