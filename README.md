@@ -1,4 +1,4 @@
-# amfoss-tasks
+# Amfoss-tasks
 ## INTRODUCTION
 This Sai Meghana from CSE-AI. I’m new to coding, but I believe that with proper effort and dedication, I can learn coding more and more, also I'm a person who is eager to take challenges on  . And more about me music keeps me motivated, calm, inspired while photography helps me connect to the nature and the capture sweet moments around me.I also like playing games related to both physical and cognitive ones.
 ## Why should we choose you?
