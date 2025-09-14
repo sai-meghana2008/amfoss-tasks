@@ -1,2 +1,11 @@
 # amfoss-tasks
-my tasks
+## INTRODUCTION
+This Sai Meghana from CSE-AI. I’m new to coding, but I believe that with proper effort and dedication, I can learn coding more and more, also I'm a person who is eager to take challenges on  . And more about me music keeps me motivated, calm, inspired while photography helps me connect to the nature and the capture sweet moments around me.I also like playing games related to both physical and cognitive ones.
+## Why should we choose you?
+Even though I’m new to coding, I pick up concepts quickly, stay consistent, and never shy away from challenges. With my dedication and adaptability, I’m confident I can grow into a valuable contributor. I see every obstacle as a chance to grow, and I'm not afraid to put in the effort it takes to master new skills.
+## How do you intend to contribute back to the club?
+I Intend to contribute by learning  and sharing my knowledge with my peers, actively participating in activities, and supporting team in every way I can. I’ll put in consistent effort not only to grow personally but also to maintain and enhance the name and reputation of the club, while contributing to projects that help it move forward.
+## What are your fields of interest, and how do you plan on working on them?
+I’m passionate about coding and problem-solving. Even though I’m  not a pro at coding, I plan to build a strong foundation in programming languages like C,Jvascript...., and gradually take on projects that put my learning into practice. My approach is to stay consistent, tackle challenges step by step, and collaborate with others to grow together. By combining hands-on practice with continuous learning, I aim to strengthen my skills and contribute effectively wherever I’m involved.
+## What are your thoughts and feedback on the Praveshan Selectin process
+  The Praveshan Selection Process by amFOSS is an exciting journey that tests coding, problem-solving, and self-learning. It challenges you to explore, use real-world tools like Git and Linux, and think independently.As part of the       process, though I feel a bit low for not being able to complete all tasks. on Overall, it’s a fun, exciting, engaging way to grow both technically and personally while preparing for open-source contributions.
