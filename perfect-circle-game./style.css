@@ -1,0 +1,131 @@
+body{background-color: black;}
+h1{color:#55D6BE;
+text-align:center;
+font-size:42px}
+#quote{color:#FBFBF2;
+text-align:center;
+font-size:28px;
+font-family:'Courier New', Courier, monospace
+}
+#startScreen
+{
+position: absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+display: flex;
+justify-content:center;
+align-items: center;
+
+z-index:1000;
+
+}
+#startBtn
+{padding:20px 41px;
+font-size:23px;
+font-weight:bold;
+border:none;
+border-radius:40px;
+background: linear-gradient(135deg,#4effff,#82ff63);
+
+color:white;
+cursor:pointer;
+box-shadow:0px 12px 30px rgba(225,78,205,0.6);
+text-transform:uppercase;
+letter-spacing: 2px;
+transition:all 0.3s ease;
+animation: pulse 1.5s infinite;
+
+}
+#startBtn:hover
+{transform: scale(1,1);
+box-shadow: o 12px 30px rgba(253, 192, 61, 0.993);
+background: linear-gradient(135deg,#dd5211,#ffa44e);
+}
+@keyframes pulse {
+0% { box-shadow:0 0 10px rgba(225 , 78, 205, 0.6);}
+50% { box-shadow: 0 0 25px rgba(74, 34, 107, 0.9);}
+100%{box-shadow:0 0 10px rgba(209, 91, 91, 0.6);}
+}
+
+#controls{
+display:none;
+text-align:center;
+  font-size: 1.2rem;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 10px;
+  transition: all 0.3s ease;
+  color: white;}
+
+
+
+#clear-btn {
+  padding:20px 41px;
+font-size:23px;
+font-weight:bold;
+border:none;
+border-radius:40px;
+background: linear-gradient(135deg,#ff4e4e,#f7a343);
+
+color:white;
+cursor:pointer;
+box-shadow:0px 12px 30px rgba(225,78,205,0.6);
+text-transform:uppercase;
+letter-spacing: 2px;
+transition:all 0.3s ease;
+animation: pulse 1.5s infinite;
+  
+}
+#clear-btn:hover {
+  transform: scale(1,1);
+  box-shadow: 0 6px 20px rgba(255, 65, 108, 0.6);
+}
+
+
+#play-btn{
+  padding:20px 41px;
+font-size:23px;
+font-weight:bold;
+border:none;
+border-radius:40px;
+background: linear-gradient(135deg,#4ef3ff,#6c63ff);
+
+color:white;
+cursor:pointer;
+box-shadow:0px 12px 30px rgba(225,78,205,0.6);
+text-transform:uppercase;
+letter-spacing: 2px;
+transition:all 0.3s ease;
+animation: pulse 1.5s infinite;
+}
+#play-btn:hover {
+  transform: scale(1,1);
+  box-shadow: 0 6px 20px rgba(0, 198, 255, 0.6);
+}
+
+
+#sound-btn {
+  padding:20px 41px;
+font-size:23px;
+font-weight:bold;
+border:none;
+border-radius:40px;
+background: linear-gradient(135deg,#ffd64e,#6c63ff);
+
+color:white;
+cursor:pointer;
+box-shadow:0px 12px 30px rgba(238, 111, 38, 0.6);
+text-transform:uppercase;
+letter-spacing: 2px;
+transition:all 0.3s ease;
+animation: pulse 1.5s infinite;
+}
+#sound-btn:hover {
+  transform: scale(1,1);
+  box-shadow: 0 6px 20px rgba(62, 210, 236, 0.6);
+}
