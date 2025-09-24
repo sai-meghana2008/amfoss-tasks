@@ -9,3 +9,6 @@ I Intend to contribute by learning  and sharing my knowledge with my peers, acti
 I’m passionate about coding and problem-solving. Even though I’m  not a pro at coding, I plan to build a strong foundation in programming languages like C,Jvascript...., and gradually take on projects that put my learning into practice. My approach is to stay consistent, tackle challenges step by step, and collaborate with others to grow together. By combining hands-on practice with continuous learning, I aim to strengthen my skills and contribute effectively wherever I’m involved.
 ## What are your thoughts and feedback on the Praveshan Selectin process
   The Praveshan Selection Process by amFOSS is an exciting journey that tests coding, problem-solving, and self-learning. It challenges you to explore, use real-world tools like Git and Linux, and think independently.As part of the       process, though I feel a bit low for not being able to complete all tasks. on Overall, it’s a fun, exciting, engaging way to grow both technically and personally while preparing for open-source contributions.
+## My HckerRank Profile
+    you can check my HackerRank prfile here:
+    [HackerRank - saimeghanapasam] (https://www.hackerrank.com/saimeghanapasam)
